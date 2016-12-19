@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"123");
     NSLog(@"123");
+//    testdlz has been updated on https://github.com/srkj/testdlz.git since you last synced. You can try syncing again or run `git pull origin master && git push origin master` from the command line.
     
 }
 
